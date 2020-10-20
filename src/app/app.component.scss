@@ -1,0 +1,23 @@
+.navbar {
+  background:#434944;
+  justify-content: center;
+
+  .navbar-brand{
+    color:#A2A3B4;
+  }
+}
+.container-main{
+  background: #389251;
+  padding: 2em;
+  .container{
+    background: #fff;
+    border-radius: 10px;
+    padding: 2em;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
+  }
+}
+.container-bottom{
+  padding: 2em;
+  background: #484CC2 ;
+  height: 50em;
+}
